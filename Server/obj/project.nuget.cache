@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/VSqKaaEKwA=",
+  "dgSpecHash": "ym/DHvXb+dg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\a0547\\OneDrive\\שולחן העבודה\\תכנות תשפה\\פרקטיקוד\\Practicode3\\MinimalApi\\Server\\TodoApi.csproj",
+  "projectFilePath": "C:\\Users\\a0547\\OneDrive\\שולחן העבודה\\תכנות תשפה\\פרקטיקוד\\Practicode3\\MinimalApi\\MinimalApiServer\\Server\\TodoApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\a0547\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\a0547\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
@@ -29,6 +29,7 @@
     "C:\\Users\\a0547\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
     "C:\\Users\\a0547\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
     "C:\\Users\\a0547\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
+    "C:\\Users\\a0547\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512",
     "C:\\Users\\a0547\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
     "C:\\Users\\a0547\\.nuget\\packages\\mysqlconnector\\2.3.5\\mysqlconnector.2.3.5.nupkg.sha512",
     "C:\\Users\\a0547\\.nuget\\packages\\pomelo.entityframeworkcore.mysql\\8.0.2\\pomelo.entityframeworkcore.mysql.8.0.2.nupkg.sha512",

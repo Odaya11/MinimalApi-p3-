@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\a0547\\OneDrive\\שולחן העבודה\\תכנות תשפה\\פרקטיקוד\\Practicode3\\MinimalApi\\Server\\TodoApi.csproj": {}
+    "C:\\Users\\a0547\\OneDrive\\שולחן העבודה\\תכנות תשפה\\פרקטיקוד\\Practicode3\\MinimalApi\\MinimalApiServer\\Server\\TodoApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\a0547\\OneDrive\\שולחן העבודה\\תכנות תשפה\\פרקטיקוד\\Practicode3\\MinimalApi\\Server\\TodoApi.csproj": {
+    "C:\\Users\\a0547\\OneDrive\\שולחן העבודה\\תכנות תשפה\\פרקטיקוד\\Practicode3\\MinimalApi\\MinimalApiServer\\Server\\TodoApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\a0547\\OneDrive\\שולחן העבודה\\תכנות תשפה\\פרקטיקוד\\Practicode3\\MinimalApi\\Server\\TodoApi.csproj",
+        "projectUniqueName": "C:\\Users\\a0547\\OneDrive\\שולחן העבודה\\תכנות תשפה\\פרקטיקוד\\Practicode3\\MinimalApi\\MinimalApiServer\\Server\\TodoApi.csproj",
         "projectName": "TodoApi",
-        "projectPath": "C:\\Users\\a0547\\OneDrive\\שולחן העבודה\\תכנות תשפה\\פרקטיקוד\\Practicode3\\MinimalApi\\Server\\TodoApi.csproj",
+        "projectPath": "C:\\Users\\a0547\\OneDrive\\שולחן העבודה\\תכנות תשפה\\פרקטיקוד\\Practicode3\\MinimalApi\\MinimalApiServer\\Server\\TodoApi.csproj",
         "packagesPath": "C:\\Users\\a0547\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\a0547\\OneDrive\\שולחן העבודה\\תכנות תשפה\\פרקטיקוד\\Practicode3\\MinimalApi\\Server\\obj\\",
+        "outputPath": "C:\\Users\\a0547\\OneDrive\\שולחן העבודה\\תכנות תשפה\\פרקטיקוד\\Practicode3\\MinimalApi\\MinimalApiServer\\Server\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,6 +69,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.2, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.21.0, )"
             },
             "Pomelo.EntityFrameworkCore.MySql": {
               "target": "Package",
